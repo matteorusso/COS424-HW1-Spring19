@@ -1,5 +1,5 @@
 ----------------------------------------------
-COS 424: Sentiment Analysis Task (Spring 2018)
+COS 424: Sentiment Analysis Task (Spring 2019)
 ----------------------------------------------
 
 This directory comprises the following files
